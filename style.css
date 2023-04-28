@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* 
+@media (max-width: 768px){
+
+    .project-management-board{
+        width: 94%;
+        height: auto;
+        background-color: white;
+        border: 2px solid #f3f3f3;
+        margin: 0 auto;
+        padding: 2rem;
+        border-radius: 0.7rem;
+    }
+
+    .right-button-container{
+        display: none;
+    }
+
+    .right-button-container button{
+        display: none;
+    }
+} */
